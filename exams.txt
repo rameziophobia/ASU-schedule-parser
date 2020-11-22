@@ -294,7 +294,7 @@ CEI__132 Civil Engineering Drawing 13 16:30 – 18:30 921A
 CES444 Building Materials 6
 16:30 – 18:30 924
 MDP__251 Casting and Welding (1) 6
-CSE__439 Design of Compilers 5 16:30 – 18:30 924
+CSE__439 Design of Compilers 5 14:30 – 16:30 911
 MCT__233 Dynamic Modelling and Simulation 125 16:30 – 18:30 Hall D
 CSE448 Embedded Operating Systems 18 16:30 – 18:30 924A
 MCT342 Introduction to Biomechanics 4 16:30 – 18:30 924A AIN SHAMS UNIVERSITY
@@ -685,7 +685,7 @@ ECE486 Analog Integrated Systems Design 10 16:30 – 18:30 921A
 CSE424 Aspect- and Service-Oriented Software
 Systems 10 16:30 – 18:30 923
 CSE438 Cloud Computing 17 16:30 – 18:30 924
-CSE226 Design of Compilers 14 16:30 – 18:30 924A
+CSE226 Design of Compilers 14 14:30 – 16:30 911
 CSE485 Game Design and Development 13 16:30 – 18:30 931
 EPM282 Power Electronics and Drives 6 16:30 – 18:30 932AIN SHAMS UNIVERSITY
 FACULTY OF ENGINEERING
@@ -770,7 +770,7 @@ EPM485 Advanced Control on Power Systems 1 16:30 – 18:00 921
 CES225 Reinforced Concrete Structures 1 16:30 – 18:00 921
 CES__226 Concrete Structures for Architectural
 Engineering 38 16:30 – 18:00 922
-CSE320 Database Systems (2) 53 16:30 – 18:00 924, 924A
+CSE320 Database Systems (2) 53 14:30 – 16:30 911, 911A
 MDP__231 Engineering Economy 8 16:30 – 18:00 921A
 COMM596 Industrial Accounting 2 16:30 – 18:00 923
 EPM__151 Industrial Electronics 2 16:30 – 18:00 923

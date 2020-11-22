@@ -13,3 +13,5 @@ this outputs an excel file of the schedule
 possible ways of improvement ( mksl a3mlhom, should take like a few minutes)
 * accept course codes as command line arguments
 * read from pdf the text content https://stackoverflow.com/questions/34837707/how-to-extract-text-from-a-pdf-file
+
+PLEASE CHECK FOR ANY SCHEDULE CHANGES BEFORE USING THE FINAL OUTPUT
