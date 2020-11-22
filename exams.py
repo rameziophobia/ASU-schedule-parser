@@ -1,10 +1,18 @@
 # written by Ramez
 # https://github.com/rameziophobia 
+# https://github.com/rameziophobia/ASU-schedule-parser
 import openpyxl 
 import excel2img
+import argparse
 
-requested_courses = ['CSE365', 'CSE335', 'CSE325', 'CSE316', 'CSE326', 'CSE415', 'CSE436', 'CSE386', "CSE320", "CSE425", "CSE317", "CSE368", "CSE440"]
-# requested_courses = ['CSE325', 'CSE436', 'CSE316', 'CSE326', 'CSE440', 'CSE320']
+ap = argparse.ArgumentParser()
+ap.add_argument("-c", "--courses", default="CSE325 CSE316 CSE326",
+	help="course codes list (space separated) ex: exams.py -c 'CSE325 CSE316 CSE326' with the codes as written in the schedule")
+args = vars(ap.parse_args())
+courses_str = args["courses"]
+
+requested_courses = map(lambda code: code.strip().upper(), args["courses"].split(" "))
+
 data = ""
 with open('exams.txt', 'r') as file:
     data = file.read().replace('\n', ' ')
