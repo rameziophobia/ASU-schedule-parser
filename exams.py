@@ -2,6 +2,7 @@
 # https://github.com/rameziophobia 
 import openpyxl 
 
+# requested_courses = ['CSE365', 'CSE335', 'CSE325', 'CSE316', 'CSE326', 'CSE415', 'CSE436', 'CSE386', "CSE320", "CSE425", "CSE317", "CSE368", "CSE440"]
 requested_courses = ['CSE365', 'CSE335', 'CSE325', 'CSE316', 'CSE326', 'CSE415', 'CSE436', 'CSE386', "CSE320"]
 data = ""
 with open('exams.txt', 'r') as file:
@@ -68,6 +69,7 @@ class Exam():
 
     def get_exam_schedule(self, codes):
         exams = [self.exams[code] for code in codes]
+        exams.sort(key=lambda e: e[4])
         exams.sort(key=lambda e: self.get_date_for_sort(e[1]))
         return exams
 
