@@ -770,7 +770,7 @@ EPM485 Advanced Control on Power Systems 1 16:30 – 18:00 921
 CES225 Reinforced Concrete Structures 1 16:30 – 18:00 921
 CES__226 Concrete Structures for Architectural
 Engineering 38 16:30 – 18:00 922
-CSE320 Database Systems (2) 53 14:30 – 16:30 911, 911A
+CSE320 Database Systems (2) 53 14:30 – 15:45 911, 911A
 MDP__231 Engineering Economy 8 16:30 – 18:00 921A
 COMM596 Industrial Accounting 2 16:30 – 18:00 923
 EPM__151 Industrial Electronics 2 16:30 – 18:00 923

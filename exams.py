@@ -1,9 +1,10 @@
 # written by Ramez
 # https://github.com/rameziophobia 
 import openpyxl 
+import excel2img
 
-# requested_courses = ['CSE365', 'CSE335', 'CSE325', 'CSE316', 'CSE326', 'CSE415', 'CSE436', 'CSE386', "CSE320", "CSE425", "CSE317", "CSE368", "CSE440"]
-requested_courses = ['CSE365', 'CSE335', 'CSE325', 'CSE316', 'CSE326', 'CSE415', 'CSE436', 'CSE386', "CSE320"]
+requested_courses = ['CSE365', 'CSE335', 'CSE325', 'CSE316', 'CSE326', 'CSE415', 'CSE436', 'CSE386', "CSE320", "CSE425", "CSE317", "CSE368", "CSE440"]
+# requested_courses = ['CSE325', 'CSE436', 'CSE316', 'CSE326', 'CSE440', 'CSE320']
 data = ""
 with open('exams.txt', 'r') as file:
     data = file.read().replace('\n', ' ')
@@ -91,4 +92,6 @@ for index, row in enumerate(results):
     ws['E' + row_num] = row[4]
     ws['F' + row_num] = row[5]
 
-wb.save('temp2.xlsx')
+wb.save('out.xlsx')
+
+excel2img.export_img("out.xlsx", "out.png", "Sheet1", None)

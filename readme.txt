@@ -3,8 +3,9 @@
 # https://github.com/rameziophobia/ASU-schedule-parser
  
 user must have a version of python installed  
-before usage, please install openpyxl ny typing into the terminal  
+before usage, please install openpyxl, excel2img by typing into the terminal  
 => pip install openpyxl  
+=> pip install excel2img
   
 simple usage  
 write the list of course codes in the requested courses list at the top of the script then run code  

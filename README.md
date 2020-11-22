@@ -1,10 +1,11 @@
 # ASU-schedule-parser
  
 user must have a version of python installed  
-before usage, please install openpyxl by typing into the terminal  
+before usage, please install openpyxl, excel2img by typing into the terminal  
 
 ``` Shell
     $ pip install openpyxl  
+    $ pip install excel2img  
 ```
 
 simple usage  
@@ -16,5 +17,5 @@ this outputs an excel file of the schedule
 ```
 
 possible ways of improvement (feel free to contribute)
-* accept course codes as command line arguments (ex: use argparse module)
+* accept course codes/file names as command line arguments (ex: use argparse module)
 * read from pdf the text content. See [stackoverflow](https://stackoverflow.com/questions/34837707/how-to-extract-text-from-a-pdf-file) 
