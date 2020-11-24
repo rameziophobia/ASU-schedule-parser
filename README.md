@@ -1,21 +1,25 @@
 # ASU-schedule-parser
- 
+
+## installation
+
 user must have a version of python installed  
-before usage, please install openpyxl, excel2img by typing into the terminal  
+before usage, please install python package requirements by typing into the terminal  
 
 ``` Shell
-    $ pip install openpyxl  
-    $ pip install excel2img  
+    $ pip install -r requirements.txt
 ```
 
-simple usage  
-write the list of course codes in the requested courses list at the top of the script then run the script  
-this outputs an excel file of the schedule
+## usage
+
+run the script with space separated list of the requested subject courses as written in the schedule, example:
 
 ``` Shell
-    $ py exams.py
+    $ py exams.py -c "CSE225 CSE325"
 ```
 
-possible ways of improvement (feel free to contribute)
-* accept course codes/file names as command line arguments (ex: use argparse module)
-* read from pdf the text content. See [stackoverflow](https://stackoverflow.com/questions/34837707/how-to-extract-text-from-a-pdf-file) 
+this outputs an image and an excel file of the schedule  
+
+The file temp1.xlsx acts as a template for the output, you may change its appearance as you like.  
+possible ways of improvement (feel free to contribute):
+
+* read from pdf the text content. See [stackoverflow](https://stackoverflow.com/questions/34837707/how-to-extract-text-from-a-pdf-file)
