@@ -220,7 +220,6 @@ DATE CODE COURSE STUD Time HALL
 Saturday
 28-11-2020
 ECE357 Acoustics 62 18:30 – 20:30 Hall 4
-CSE386 Artificial Intelligence 40 18:30 – 20:30 911A
 MEP472 Refrigeration and Air Conditioning 37 18:30 – 20:30 914A
 MCT441 Smart Actuators and Sensors 16 18:30 – 20:30 921 AIN SHAMS UNIVERSITY
 FACULTY OF ENGINEERING
@@ -294,7 +293,7 @@ CEI__132 Civil Engineering Drawing 13 16:30 – 18:30 921A
 CES444 Building Materials 6
 16:30 – 18:30 924
 MDP__251 Casting and Welding (1) 6
-CSE__439 Design of Compilers 5 14:30 – 16:30 911
+CSE__439 Design of Compilers 5 12:00 – 14:00 912
 MCT__233 Dynamic Modelling and Simulation 125 16:30 – 18:30 Hall D
 CSE448 Embedded Operating Systems 18 16:30 – 18:30 924A
 MCT342 Introduction to Biomechanics 4 16:30 – 18:30 924A AIN SHAMS UNIVERSITY
@@ -685,7 +684,7 @@ ECE486 Analog Integrated Systems Design 10 16:30 – 18:30 921A
 CSE424 Aspect- and Service-Oriented Software
 Systems 10 16:30 – 18:30 923
 CSE438 Cloud Computing 17 16:30 – 18:30 924
-CSE226 Design of Compilers 14 14:30 – 16:30 911
+CSE226 Design of Compilers 14 12:00 – 14:00 912
 CSE485 Game Design and Development 13 16:30 – 18:30 931
 EPM282 Power Electronics and Drives 6 16:30 – 18:30 932AIN SHAMS UNIVERSITY
 FACULTY OF ENGINEERING
@@ -775,4 +774,5 @@ MDP__231 Engineering Economy 8 16:30 – 18:00 921A
 COMM596 Industrial Accounting 2 16:30 – 18:00 923
 EPM__151 Industrial Electronics 2 16:30 – 18:00 923
 MCT331 Industrial Mechanisms and Robotics 7 16:30 – 18:00 931
+CSE386 Artificial Intelligence 40 10:00 – 12:00 911
 CSE439 Wireless Networks 23 16:30 – 18:00 931A
