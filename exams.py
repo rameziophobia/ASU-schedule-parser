@@ -69,7 +69,7 @@ class Exam():
             self.exams[exam_strings[2]] = exam_strings
 
     def get_code_if_valid(self, word):
-        if len(word) == 8 or len(word) == 6:
+        if 6 <= len(word) <= 8:
             subject_code_letters = word[:3]
             subject_code_numbers = word[len(word) - 3:]
             if subject_code_letters.isupper() and subject_code_letters.isalpha() and subject_code_numbers.isnumeric():

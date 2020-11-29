@@ -10,7 +10,10 @@ Friday
 27-11-2020
 MEP363 Combustion and Furnaces 31
 8:00 – 10:00 911
-MEP__311 Combustion 1AIN SHAMS UNIVERSITY
+MEP__311 Combustion 1
+ECE411 Integrated Optics and Optical MEMS 2 8:00 – 10:00 912
+ 
+AIN SHAMS UNIVERSITY
 FACULTY OF ENGINEERING
 CREDIT HOURS
 ENGINEERING PROGRAMS
@@ -21,7 +24,8 @@ DATE CODE COURSE STUD Time HALL
 Friday
 27-11-2020
 MDP024 Production Engineering 8
-10:00 – 11:30 Hall 1, 2, 911,
+10:00 – 11:30
+Hall 1, 2, 911,
 MDP__081 Production Engineering 252 911A
 CES__113 Structural Mechanics 55 10:00 – 11:30 914, 914A
 CES442 Modern Building Materials 77 10:00 – 11:30 912, 913
@@ -33,7 +37,9 @@ CSE127 Data Structures and Algorithms 22
 CSE__331 Data Structures and Algorithms 146
 ECE252 Signals and Systems 6
 10:00 – 11:30 924
-ECE__253 Signals and Systems 30AIN SHAMS UNIVERSITY
+ECE__253 Signals and Systems 30
+ 
+AIN SHAMS UNIVERSITY
 FACULTY OF ENGINEERING
 CREDIT HOURS
 ENGINEERING PROGRAMS
@@ -49,7 +55,10 @@ CSE347 Embedded System Design 7
 MCT412 Autotronics 40 10:00 – 11:30 931A
 CSE224 Design and Analysis of Algorithms 25 10:00 – 11:30 932
 MEP__221 Fluid Mechanics and Turbo-Machinery 109 10:00 – 11:30 Hall 4
-CSE423 Software Performance Evaluation 18 10:00 – 11:30 933AIN SHAMS UNIVERSITY
+CSE423 Software Performance Evaluation 18 10:00 – 11:30 933
+ 
+
+AIN SHAMS UNIVERSITY
 FACULTY OF ENGINEERING
 CREDIT HOURS
 ENGINEERING PROGRAMS
@@ -63,7 +72,8 @@ MDP132 Structures and Properties of Materials 13
 14:00 – 16:00 Hall 2, 224
 MDP__151 Structure and properties of materials 220
 MDP261 Machine Design 52
-14:00 – 16:00 Hall 4, 911,
+14:00 – 16:00
+Hall 4, 911,
 911A
 MDP364 Machine Design 95
 CES223 Concrete Structures Design (1) 12
@@ -72,7 +82,10 @@ CES__224 Concrete Structures Design (1) 47
 MDP326 Quality Control 11
 14:00 – 16:00 914A
 MDP446 Quality Control, Quality Assurance, and
-Safety 28AIN SHAMS UNIVERSITY
+Safety 28
+ 
+
+AIN SHAMS UNIVERSITY
 FACULTY OF ENGINEERING
 CREDIT HOURS
 ENGINEERING PROGRAMS
@@ -89,7 +102,10 @@ CSE365 Computer Vision 109 14:00 – 16:00 Hall 3
 CSE367 Digital Image Processing 20 14:00 – 16:00 921
 COMM554 Multimedia Engineering 2
 14:00 – 16:00 921A
-CSE445 Multimedia Engineering 40AIN SHAMS UNIVERSITY
+CSE445 Multimedia Engineering 40
+ 
+
+AIN SHAMS UNIVERSITY
 FACULTY OF ENGINEERING
 CREDIT HOURS
 ENGINEERING PROGRAMS
@@ -107,7 +123,8 @@ Manufacturing (1) 1
 MDP121 Manufacturing Technology (1) 10 16:00 – 18:00 Hall 3, 931
 MDP__183 Manufacturing Technologies 121
 MEP113 Building Thermal Sciences 13 16:00 – 18:00 911
-CSE325 Agile Software Engineering 136 16:00 – 18:00 Hall 4, 932AIN SHAMS UNIVERSITY
+CSE325 Agile Software Engineering 136 16:00 – 18:00 Hall 4, 932
+AIN SHAMS UNIVERSITY
 FACULTY OF ENGINEERING
 CREDIT HOURS
 ENGINEERING PROGRAMS
@@ -118,13 +135,14 @@ DATE CODE COURSE STUD Time HALL
 Saturday
 28-11-2020
 CSE126 Computer Programming (2) 7
-CSE228 Advanced Computer Programming 13 12:00 – 14:00 911
+12:00 – 14:00 911 CSE228 Advanced Computer Programming 13
 CSE__231 Advanced Computer Programming 17
 CSE425 Software Design Patterns 113 12:00 – 14:00 911A, 914, 914A
 BLDG500 Topics in Building Engineering 1
 12:00 – 14:00 912, 913
 CES467 Selected Topics in Construction Engineering
-(1) 46AIN SHAMS UNIVERSITY
+(1) 46
+AIN SHAMS UNIVERSITY
 FACULTY OF ENGINEERING
 CREDIT HOURS
 ENGINEERING PROGRAMS
@@ -135,11 +153,12 @@ DATE CODE COURSE STUD Time HALL
 Saturday
 28-11-2020
 ECE__331 Electromagnetic Waves 30
-COMM352 Electromagnetic Fields 1 14:30 – 16:30 911
+COMM352 Electromagnetic Fields 14:30 – 16:30 911 1
 ECE261 Engineering Electromagnetics 9
 MDP162 Mechanical Engineering Drawing 1
 14:30 – 16:30 901A
-MDP__111 Mechanical Engineering Drawing 10AIN SHAMS UNIVERSITY
+MDP__111 Mechanical Engineering Drawing 10
+AIN SHAMS UNIVERSITY
 FACULTY OF ENGINEERING
 CREDIT HOURS
 ENGINEERING PROGRAMS
@@ -151,8 +170,9 @@ Saturday
 28-11-2020
 CSE__031 Computing in Engineering 379 16:30 – 18:30 Hall 1, 2, 3
 EMAT240 Statistics and Probability for Engineers 3
-16:30 – 18:30 Hall 224, 261,
-PHM114 Statistics and Probability for Engineering 18 392, 911, 913
+16:30 – 18:30
+Hall 224, 261,
+392, 911, 913 PHM114 Statistics and Probability for Engineering 18
 PHM__111 Probability and Statistics 321
 PHM013 Calculus for Engineering (2) 5 16:30 – 18:30 912
 HUMN480 Impact of Technology on Society 1
@@ -161,7 +181,8 @@ HUM211 Impact of Technology on Society 21
 CEP__221 Introduction to Transportation and Traffic
 Engineering 50 16:30 – 18:30 914, 914A
 EPM214 Electrical Power Engineering 24 16:30 – 18:30 911A
-EPM213 Acoustics & Lighting 18 16:30 – 18:30 922AIN SHAMS UNIVERSITY
+EPM213 Acoustics & Lighting 18 16:30 – 18:30 922
+AIN SHAMS UNIVERSITY
 FACULTY OF ENGINEERING
 CREDIT HOURS
 ENGINEERING PROGRAMS
@@ -186,7 +207,9 @@ MDP411 Advanced Manufacturing Processes 6 16:30 – 18:30 924A
 CSE221 Object-Oriented Analysis and Design 12
 16:30 – 18:30 Hall 4, 931
 CSE__232 Advanced Software Engineering 135
-CSE373 Control Systems 46 16:30 – 18:30 931A, 933AIN SHAMS UNIVERSITY
+CSE373 Control Systems 46 16:30 – 18:30 931A, 933
+ 
+AIN SHAMS UNIVERSITY
 FACULTY OF ENGINEERING
 CREDIT HOURS
 ENGINEERING PROGRAMS
@@ -203,7 +226,11 @@ MCT431 Autonomous Systems 37 16:30 – 18:30 942
 ECE364 Microwave Circuits 3 16:30 – 18:30 932
 MCT443 Rehabilitation Robots 4 16:30 – 18:30 932
 MDP__254 Thermodynamics of Materials 5 16:30 – 18:30 932
-16:30 – 18:30AIN SHAMS UNIVERSITY
+16:30 – 18:30
+
+ 
+
+AIN SHAMS UNIVERSITY
 FACULTY OF ENGINEERING
 CREDIT HOURS
 ENGINEERING PROGRAMS
@@ -214,13 +241,14 @@ DATE CODE COURSE STUD Time HALL
 Saturday
 28-11-2020
 MEP112 Thermodynamics 27
-18:30 – 20:30 Hall 1
+18:30 – 20:30
+Hall 1
 911
 MEP__111 Thermal Physics 108
 CES143 Building Engineering Materials 8
-18:30 – 20:30 Hall 2
-912
-CES__151 Structure and Properties of Construction
+18:30 – 20:30
+Hall 2
+912 CES__151 Structure and Properties of Construction
 Materials 144
 BLDG592 Introduction to Structural Dynamics 1
 18:30 – 20:30 Hall 3
@@ -230,7 +258,9 @@ EPM336 Microprocessor Based Automated Systems 35
 ERGY451 Microprocessor Based Automated Systems 2
 MCT371 Automatic Control 17
 18:30 – 20:30 914
-MDP366 Automatic Control 17AIN SHAMS UNIVERSITY
+MDP366 Automatic Control 17
+
+AIN SHAMS UNIVERSITY
 FACULTY OF ENGINEERING
 CREDIT HOURS
 ENGINEERING PROGRAMS
@@ -242,7 +272,10 @@ Saturday
 28-11-2020
 ECE357 Acoustics 62 18:30 – 20:30 Hall 4
 MEP472 Refrigeration and Air Conditioning 37 18:30 – 20:30 914A
-MCT441 Smart Actuators and Sensors 16 18:30 – 20:30 921AIN SHAMS UNIVERSITY
+MCT441 Smart Actuators and Sensors 16 18:30 – 20:30 921
+ 
+
+AIN SHAMS UNIVERSITY
 FACULTY OF ENGINEERING
 CREDIT HOURS
 ENGINEERING PROGRAMS
@@ -254,7 +287,9 @@ Sunday
 29-11-2020
 PHM__022 Electricity &Magnetism 19
 8:00 – 10:00 911
-PHM022 Waves, Electricity and Magnetic Fields 11AIN SHAMS UNIVERSITY
+PHM022 Waves, Electricity and Magnetic Fields 11
+
+AIN SHAMS UNIVERSITY
 FACULTY OF ENGINEERING
 CREDIT HOURS
 ENGINEERING PROGRAMS
@@ -264,10 +299,13 @@ DAY AND
 DATE CODE COURSE STUD Time HALL
 Sunday
 29-11-2020
-MCT311 Introduction to Autotronics 149 12:30 – 2:00 911, 911A,
+MCT311 Introduction to Autotronics 149 12:30 – 2:00
+911, 911A,
 914, 914A
-CSE326 Software Formal Specifications 97 12:30 – 2:00 921, 921A,
-922AIN SHAMS UNIVERSITY
+CSE326 Software Formal Specifications 97 12:30 – 2:00
+921, 921A,
+922
+AIN SHAMS UNIVERSITY
 FACULTY OF ENGINEERING
 CREDIT HOURS
 ENGINEERING PROGRAMS
@@ -296,7 +334,9 @@ EPM354 Power Electronics (2) 16
 ERGY452 Power Electronics (2) 1
 PHM012 Calculus for Engineering (1) 10 16:30 – 18:30 921
 EPM123 Energy Conversion 5 16:30 – 18:30 922
-MDP336 Biomedical Materials 8 16:30 – 18:30 922AIN SHAMS UNIVERSITY
+MDP336 Biomedical Materials 8 16:30 – 18:30 922
+ 
+AIN SHAMS UNIVERSITY
 FACULTY OF ENGINEERING
 CREDIT HOURS
 ENGINEERING PROGRAMS
@@ -309,19 +349,19 @@ Sunday
 MDP459 Mechatronics 5 16:30 – 18:30 922
 EPM116 Electromagnetic Fields 7
 16:30 – 18:30 941, 941A,
-942, 943
-EPM__115 Fundamentals of Electromagnetic Fields 92
-EPM484 Electric Drives 14
-16:30 – 18:30 923
+942, 943 EPM__115 Fundamentals of Electromagnetic Fields 92
+EPM484 Electric Drives 14 16:30 – 18:30 923
 ERGY553 Electric Drives 1
 CEI__132 Civil Engineering Drawing 13 16:30 – 18:30 921A
 CES444 Building Materials 6
-16:30 – 18:30 924
+16:30 – 18:30 923
 MDP__251 Casting and Welding (1) 6
 MCT__233 Dynamic Modelling and Simulation 125 16:30 – 18:30 931, 931A,
-932
+MCT456 Dyn 932, 924 amic Modeling and Simulation 14
 CSE448 Embedded Operating Systems 18 16:30 – 18:30 924A
-MCT342 Introduction to Biomechanics 4 16:30 – 18:30 924AAIN SHAMS UNIVERSITY
+MCT342 Introduction to Biomechanics 4 16:30 – 18:30 924A
+ 
+AIN SHAMS UNIVERSITY
 FACULTY OF ENGINEERING
 CREDIT HOURS
 ENGINEERING PROGRAMS
@@ -348,7 +388,9 @@ Mechanics 38
 CSE346 Business Process Modeling 22 18:30 – 20:30 913
 MDP265 Mechanical Design (3) 17 18:30 – 20:30 914
 CSE430 Selected Topics in Distributed and
-Mobile Computing 26 18:30 – 20:30 914AAIN SHAMS UNIVERSITY
+Mobile Computing 26 18:30 – 20:30 914A
+ 
+AIN SHAMS UNIVERSITY
 FACULTY OF ENGINEERING
 CREDIT HOURS
 ENGINEERING PROGRAMS
@@ -359,7 +401,8 @@ DATE CODE COURSE STUD Time HALL
 Monday
 30-11-2020 PHM __013 Mathematics (2) 71
 8:00 – 10:00 911, 911A, 912
-PHM113 Calculus for Engineering (3) 32AIN SHAMS UNIVERSITY
+PHM113 Calculus for Engineering (3) 32
+AIN SHAMS UNIVERSITY
 FACULTY OF ENGINEERING
 CREDIT HOURS
 ENGINEERING PROGRAMS
@@ -369,9 +412,12 @@ DAY AND
 DATE CODE COURSE STUD Time HALL
 Monday
 30-11-2020
-MCT341 Introduction to Bio-Mechatronics 142 12:00 – 14:00 911, 911A,
+MCT341 Introduction to Bio-Mechatronics 142 12:00 – 14:00
+911, 911A,
 914, 914A
-CSE489 Machine Vision 82 12:00 – 14:00 921, 921AAIN SHAMS UNIVERSITY
+CSE489 Machine Vision 82 12:00 – 14:00 921, 921A
+ 
+AIN SHAMS UNIVERSITY
 FACULTY OF ENGINEERING
 CREDIT HOURS
 ENGINEERING PROGRAMS
@@ -381,22 +427,39 @@ DAY AND
 DATE CODE COURSE STUD Time HALL
 Monday
 30-11-2020
-PHM__012 Mathematics (1) 549 16:30 – 18:30 Hall 1, 2, 3, 4,
+COMM451 Statistical Signal Processing 1 14:30 – 16:30 290
+ 
+AIN SHAMS UNIVERSITY
+FACULTY OF ENGINEERING
+CREDIT HOURS
+ENGINEERING PROGRAMS
+Midterm EXAMINATION
+Fall 2020
+DAY AND
+DATE CODE COURSE STUD Time HALL
+Monday
+30-11-2020
+PHM__012 Mathematics (1) 549 16:30 – 18:30
+Hall 1, 2, 3, 4,
 911, 911A
 MCT241 Engineering Measurements 9
 16:30 – 18:30 702, 941A
 MCT__231 Engineering Measurements 123
 MDP141 Mechanical Engineering Measurements 2
-16:30 – 18:30 943, 944,
-MEP284 Measurements Lab 2 944A
+16:30 – 18:30
+943, 944,
+944A MEP284 Measurements Lab 2
 MEP__231 Measurements and Instrumentation 119
 CES323 Concrete Structures Design (2) 67 16:30 – 18:30 914, 914A
 MCT251 Theory of Machine and Multibody 6
-16:30 – 18:30 912
+16:30 – 18:30 912, 931
 MDP254 Theory of Machines 20
 ARC414 Building Envelope Design 16
 16:30 – 18:30 913
-BLDG595 Building Envelope Design 1AIN SHAMS UNIVERSITY
+BLDG595 Building Envelope Design 1
+ 
+
+AIN SHAMS UNIVERSITY
 FACULTY OF ENGINEERING
 CREDIT HOURS
 ENGINEERING PROGRAMS
@@ -409,14 +472,17 @@ Monday
 MEP453 Wind Energy 32 16:30 – 18:30 922
 ECE343 Electronic Circuits (2) 48 16:30 – 18:30 921, 921A
 MDP373 Numerical Control Machines 7 16:30 – 18:30 923
-PHM__211 Discrete Mathematics 156 16:30 – 18:30 Hall 224, 941,
+PHM__211 Discrete Mathematics 156 16:30 – 18:30
+Hall 224, 941,
 942
 MCT242 Electronic Instrumentation 29
 16:30 – 18:30 924
 ECE__215 Introduction to Electronics 8
 MDP231 Material Testing 4 16:30 – 18:30 924A
 MDP333 Modern Steel Making 6 16:30 – 18:30 924A
-CES110 Soil Properties and Materials 3 16:30 – 18:30 931AAIN SHAMS UNIVERSITY
+CES110 Soil Properties and Materials 3 16:30 – 18:30 931A
+ 
+AIN SHAMS UNIVERSITY
 FACULTY OF ENGINEERING
 CREDIT HOURS
 ENGINEERING PROGRAMS
@@ -428,7 +494,7 @@ Monday
 30-11-2020
 PHM115 Differential Equations and Partial
 Differential Equations 13
-PHM__112 Differential Equations and Numerical 18:30 – 20:30 Hall 1, 2, 3, 4
+PHM__112 18:30 – 20:30 Hall 1, 2, 3, 4 Differential Equations and Numerical
 Analysis 159
 PHM__113 Differential and Partial Differential
 Equations 288
@@ -447,7 +513,9 @@ BLDG491 Resources Management 2
 18:30 – 20:30 Hall A
 CES464 Resources Management 78
 MCT333 CNC and CAD/CAM 86 18:30 – 20:30 Hall B
-CSE415 High-Performance Computing 125 18:30 – 20:30 Hall CAIN SHAMS UNIVERSITY
+CSE415 High-Performance Computing 125 18:30 – 20:30 Hall C
+ 
+AIN SHAMS UNIVERSITY
 FACULTY OF ENGINEERING
 CREDIT HOURS
 ENGINEERING PROGRAMS
@@ -456,9 +524,11 @@ Fall 2020
 DAY AND DATE CODE COURSE STUD Time HALL
 Tuesday
 1-12-2020
-MCT321 Introduction to Nano-Mechatronics 146 12:00 – 14:00 911, 911A,
+MCT321 Introduction to Nano-Mechatronics 146 12:00 – 14:00
+911, 911A,
 914, 914A
-MDP__281 Metal Cutting Theory and Technologies 8 12:00 – 14:00 912AIN SHAMS UNIVERSITY
+MDP__281 Metal Cutting Theory and Technologies 8 12:00 – 14:00 912
+AIN SHAMS UNIVERSITY
 FACULTY OF ENGINEERING
 CREDIT HOURS
 ENGINEERING PROGRAMS
@@ -467,8 +537,10 @@ Fall 2020
 DAY AND DATE CODE COURSE STUD Time HALL
 Tuesday
 1-12-2020
-CEP__011 Projection & Engineering Graphics 261 14:30 – 16:30 Hall 4, 702,
-911, 911AAIN SHAMS UNIVERSITY
+CEP__011 Projection & Engineering Graphics 261 14:30 – 16:30
+Hall 4, 702,
+911, 911A
+AIN SHAMS UNIVERSITY
 FACULTY OF ENGINEERING
 CREDIT HOURS
 ENGINEERING PROGRAMS
@@ -492,7 +564,8 @@ Machines 91
 ERGY590 Individual Studies (Electrical) 1
 CSE223 Operating Systems 21
 16:30 – 18:30 Hall 4, 931
-CSE__335 Operating Systems 142AIN SHAMS UNIVERSITY
+CSE__335 Operating Systems 142
+ AIN SHAMS UNIVERSITY
 FACULTY OF ENGINEERING
 CREDIT HOURS
 ENGINEERING PROGRAMS
@@ -513,7 +586,10 @@ CES439 Steel Structures Design (2) 26 16:30 – 18:30 914
 MDP419 Manufacturing Technology (2) 25 16:30 – 18:30 914A
 MCT334 Rapid Prototyping 10 16:30 – 18:30 921
 ARC__366 Responsive Architecture Installations 7 16:30 – 18:30 922
-CSE426 Software Maintenance and Evolution 17 16:30 – 18:30 923AIN SHAMS UNIVERSITY
+CSE426 Software Maintenance and Evolution 17 16:30 – 18:30 923
+
+ 
+AIN SHAMS UNIVERSITY
 FACULTY OF ENGINEERING
 CREDIT HOURS
 ENGINEERING PROGRAMS
@@ -524,12 +600,11 @@ DATE CODE COURSE STUD Time HALL
 Tuesday
 1-12-2020
 CSE115 Digital Design 11
-CSE141 Logic Design 3 18:30 – 20:30 Hall 1, 2, 3
+18:30 – 20:30 Hall 1, 2, 3 CSE141 Logic Design 3
 CSE__111 Logic Design 331
 EPM372 Industrial or Field Training 83 18:30 – 20:30 Hall 4
 BLDG354 Concrete Technology I 1
-18:30 – 20:30 Hall C
-CES242 Concrete Technology (1) 17
+18:30 – 20:30 Hall C CES242 Concrete Technology (1) 17
 CES__251 Concrete Technology (1) 54
 CSE316 Microcontrollers and Interfacing 107
 18:30 – 20:30 Hall A, B
@@ -538,7 +613,9 @@ BLDG489 Legal Issues in Construction 2
 18:30 – 20:30 911
 CES466 Legal Issues in Construction 14
 MEP433 Water Desalination 16 18:30 – 20:30 912
-MCT432 Hybrid Control Systems 46 18:30 – 20:30 914, 914AAIN SHAMS UNIVERSITY
+MCT432 Hybrid Control Systems 46 18:30 – 20:30 914, 914A
+ 
+AIN SHAMS UNIVERSITY
 FACULTY OF ENGINEERING
 CREDIT HOURS
 ENGINEERING PROGRAMS
@@ -550,7 +627,9 @@ Wednesday
 2-12-2020
 PHM__032 Dynamics 10
 8:00 – 10:00 911
-PHM033 Engineering Mechanics (2) Dynamics 17AIN SHAMS UNIVERSITY
+PHM033 Engineering Mechanics (2) Dynamics 17
+ 
+AIN SHAMS UNIVERSITY
 FACULTY OF ENGINEERING
 CREDIT HOURS
 ENGINEERING PROGRAMS
@@ -560,7 +639,9 @@ DAY AND
 DATE CODE COURSE STUD Time HALL
 Wednesday
 2-12-2020
-MCT351 Pneumatics and Hydraulics Control 102 12:00 – 14:00 911, 911A, 912AIN SHAMS UNIVERSITY
+MCT351 Pneumatics and Hydraulics Control 102 12:00 – 14:00 911, 911A, 912
+ 
+AIN SHAMS UNIVERSITY
 FACULTY OF ENGINEERING
 CREDIT HOURS
 ENGINEERING PROGRAMS
@@ -571,7 +652,9 @@ DATE CODE COURSE STUD Time HALL
 Wednesday
 2-12-2020
 CSE440 Selected Topics in Software
-Applications 57 14:30 – 16:30 911, 912AIN SHAMS UNIVERSITY
+Applications 57 14:30 – 16:30 911, 912
+ 
+AIN SHAMS UNIVERSITY
 FACULTY OF ENGINEERING
 CREDIT HOURS
 ENGINEERING PROGRAMS
@@ -582,17 +665,23 @@ DATE CODE COURSE STUD Time HALL
 Wednesday
 2-12-2020
 PHM__031 Statics 551
-16:30 – 18:30 Hall 1, 2, 3, 4,
-911, 911A
-PHM032 Engineering Mechanics (1) Statics 5
+16:30 – 18:30
+Hall 1, 2, 3, 4,
+911, 911A PHM032 Engineering Mechanics (1) Statics 5
 EPM__119 Engineering Economy and Investments 45 16:30 – 18:30 914A
 CES__171 Engineering Economics and Finance 70 16:30 – 18:30 912, 913
 PHM__131 Rigid Body Dynamics 132 16:30 – 18:30 Hall 261, 702
 ECE255 Signals and Systems 22
-16:30 – 18:30 Hall 224, 914,
+16:30 – 18:30
+Hall 224, 914,
 ECE__251 Signals and Systems Fundamentals 150 923
 CES313 Computer Aided Structural Design 17 16:30 – 18:30 922
-CES361 Engineering Management Principles 68 16:30 – 18:30 921, 921AAIN SHAMS UNIVERSITY
+CES361 Engineering Management Principles 68 16:30 – 18:30 921, 921A
+
+
+ 
+
+AIN SHAMS UNIVERSITY
 FACULTY OF ENGINEERING
 CREDIT HOURS
 ENGINEERING PROGRAMS
@@ -603,14 +692,17 @@ DATE CODE COURSE STUD Time HALL
 Wednesday
 2-12-2020
 MEP354 Solar Energy (1) 98
-16:30 – 18:30 Hall 392,
-ERGY520 Solar Energy (2) 1 253
+16:30 – 18:30
+Hall 392,
+253 ERGY520 Solar Energy (2) 1
 MEP452 Solar Energy (2) 71
 MDP240 Metrology Lab (1) 3 16:30 – 18:30 924
 MDP337 Corrosion 10 16:30 – 18:30 924
 ECE363 Antenna Engineering and Propagation 37 16:30 – 18:30 924A
 PHM__141 Introduction to Organic Chemistry 4 16:30 – 18:30 931
-CES424 Concrete Structures Design (4) 22 16:30 – 18:30 931AIN SHAMS UNIVERSITY
+CES424 Concrete Structures Design (4) 22 16:30 – 18:30 931
+ 
+AIN SHAMS UNIVERSITY
 FACULTY OF ENGINEERING
 CREDIT HOURS
 ENGINEERING PROGRAMS
@@ -628,7 +720,13 @@ CSE368 Computer Graphics 31 16:30 – 18:30 941A
 CSE338 Network Operation and Management 10 16:30 – 18:30 942
 MDP456 System Modeling 5 16:30 – 18:30 942
 EPM__411 Project Management for Electrical
-Engineering 112 16:30 – 18:30 943, 944, 944AAIN SHAMS UNIVERSITY
+Engineering
+112 16:30 – 18:30
+943, 944,
+944A
+ 
+
+AIN SHAMS UNIVERSITY
 FACULTY OF ENGINEERING
 CREDIT HOURS
 ENGINEERING PROGRAMS
@@ -653,7 +751,9 @@ ECE232 Electronic Engineering 17
 18:30 – 20:30 912
 EPM__151 Industrial Electronics 2
 MEA442 Engine Management Systems 47 18:30 – 20:30 914, 914A
-CSE317 Parallel and Cluster Computing 24 18:30 – 20:30 913AIN SHAMS UNIVERSITY
+CSE317 Parallel and Cluster Computing 24 18:30 – 20:30 913
+ 
+AIN SHAMS UNIVERSITY
 FACULTY OF ENGINEERING
 CREDIT HOURS
 ENGINEERING PROGRAMS
@@ -665,10 +765,12 @@ Thursday
 3-12-2020
 EPM122 Energy Resources and Regenerative
 Energy Resources 5
-10:00 – 12:00 911, 911A,
-914
-EPM__117 Energy Resources and Renewable
-Energy 103AIN SHAMS UNIVERSITY
+10:00 – 12:00
+911, 911A,
+914 EPM__117 Energy Resources and Renewable
+Energy 103
+ 
+AIN SHAMS UNIVERSITY
 FACULTY OF ENGINEERING
 CREDIT HOURS
 ENGINEERING PROGRAMS
@@ -678,11 +780,15 @@ DAY AND
 DATE CODE COURSE STUD Time HALL
 Thursday
 3-12-2020
-MCT381 Design of Mechatronics (1) 151 12:00 – 14:00 911, 911A,
+MCT381 Design of Mechatronics (1) 151 12:00 – 14:00
+911, 911A,
 914, 914A
 CSE226 Design of Compilers 14
 12:00 – 14:00 912
-CSE__439 Design of Compilers 5AIN SHAMS UNIVERSITY
+CSE__439 Design of Compilers 5
+CSE438 Cloud Computing 17 12:00 – 14:00 913
+ 
+AIN SHAMS UNIVERSITY
 FACULTY OF ENGINEERING
 CREDIT HOURS
 ENGINEERING PROGRAMS
@@ -707,7 +813,9 @@ MDP266 Machine Construction 2
 MDP__112 Machine Construction 150
 CSE012 Engineering Computation 11
 16:30 – 18:30 911
-ENGR120 Engineering Computation 3AIN SHAMS UNIVERSITY
+ENGR120 Engineering Computation 3
+ 
+AIN SHAMS UNIVERSITY
 FACULTY OF ENGINEERING
 CREDIT HOURS
 ENGINEERING PROGRAMS
@@ -730,7 +838,10 @@ ARC114 Building Engineering Drawing 9
 ARC__143 Building Engineering Drawing 25
 CES213 Structural Analysis (2) 6
 16:30 – 18:30 911A, 914A
-CES__213 Structural Analysis 47AIN SHAMS UNIVERSITY
+CES__213 Structural Analysis 47
+
+ 
+AIN SHAMS UNIVERSITY
 FACULTY OF ENGINEERING
 CREDIT HOURS
 ENGINEERING PROGRAMS
@@ -744,12 +855,15 @@ ECE233 Solid State Electronic Devices 6
 16:30 – 18:30 921
 ECE__213 Solid State Electronic Devices 25
 HUM031 History of Arts (2) 5 16:30 – 18:30 922
-ECE486 Analog Integrated Systems Design 10 16:30 – 18:30 921A
 CSE424 Aspect- and Service-Oriented Software
 Systems 10 16:30 – 18:30 923
-CSE438 Cloud Computing 17 16:30 – 18:30 924
 CSE485 Game Design and Development 13 16:30 – 18:30 931
-EPM282 Power Electronics and Drives 6 16:30 – 18:30 932AIN SHAMS UNIVERSITY
+EPM282 Power Electronics and Drives 6 16:30 – 18:30 932
+
+ 
+
+
+AIN SHAMS UNIVERSITY
 FACULTY OF ENGINEERING
 CREDIT HOURS
 ENGINEERING PROGRAMS
@@ -773,7 +887,11 @@ CSE215 Electronic Design Automation 33
 CSE__312 Electronic Design Automation 142
 MCT455 Industrial Robotics 37 18:30 – 20:30 912
 ECE487 VLSI Design and Automation 33 18:30 – 20:30 913
-ECE381 VLSI Technology 36 18:30 – 20:30 914AIN SHAMS UNIVERSITY
+ECE381 VLSI Technology 36 18:30 – 20:30 914
+ 
+
+
+AIN SHAMS UNIVERSITY
 FACULTY OF ENGINEERING
 CREDIT HOURS
 ENGINEERING PROGRAMS
@@ -783,14 +901,15 @@ DAY AND
 DATE CODE COURSE STUD Time HALL
 Thursday
 3-12-2020
-MCT456 Dynamic Modeling and Simulation 14 18:30 – 20:30 914A
 PHM__115 Engineering Mathematics 3
 18:30 – 20:30 921
 PHM210 Modeling and Numerical Solutions 2
 ARC__212 Multi-story Accommodation Design
 Studio 7 18:30 – 20:30 922
 CSE486 Ontologies and the Semantic Web 17 18:30 – 20:30 923
-MDP334 Welding Technology and Metallurgy 3 18:30 – 20:30 924AIN SHAMS UNIVERSITY
+MDP334 Welding Technology and Metallurgy 3 18:30 – 20:30 924
+ 
+AIN SHAMS UNIVERSITY
 FACULTY OF ENGINEERING
 CREDIT HOURS
 ENGINEERING PROGRAMS
@@ -800,7 +919,9 @@ DAY AND
 DATE CODE COURSE STUD Time HALL
 Friday
 4-12-2020
-CSE386 Artificial Intelligence 40 10:00 – 12:00 911AIN SHAMS UNIVERSITY
+CSE386 Artificial Intelligence 40 10:00 – 12:00 911
+ 
+AIN SHAMS UNIVERSITY
 FACULTY OF ENGINEERING
 CREDIT HOURS
 ENGINEERING PROGRAMS
@@ -810,7 +931,11 @@ DAY AND DATE CODE COURSE STUD Time HALL
 Friday
 4-12-2020
 CSE320 Database Systems (2) 53 14:30 – 16:30 911, 911A
-CES231 Steel Structures Design (1) 10 14:30 – 16:30 912AIN SHAMS UNIVERSITY
+CES231 Steel Structures Design (1) 10 14:30 – 16:30 912
+ECE486 Analog Integrated Systems Design 10 14:30 – 16:30 913
+
+ 
+AIN SHAMS UNIVERSITY
 FACULTY OF ENGINEERING
 CREDIT HOURS
 ENGINEERING PROGRAMS
@@ -838,7 +963,9 @@ EPM337 Power Quality 15
 ERGY453 Power Quality 1
 EPM281 Automatic Control Systems 5
 16:30 – 18:00 Hall 4
-EPM__232 Automatic Control Systems 103AIN SHAMS UNIVERSITY
+EPM__232 Automatic Control Systems 103
+ 
+AIN SHAMS UNIVERSITY
 FACULTY OF ENGINEERING
 CREDIT HOURS
 ENGINEERING PROGRAMS
@@ -856,3 +983,5 @@ MDP__231 Engineering Economy 8 16:30 – 18:00 921A
 COMM596 Industrial Accounting 2 16:30 – 18:00 923
 MCT331 Industrial Mechanisms and Robotics 7 16:30 – 18:00 931
 CSE439 Wireless Networks 23 16:30 – 18:00 931A
+
+ 
